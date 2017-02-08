@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+Alejandro
+Buenas tardes
+
+He añadido esta línea de texto
+=======
 Alejandro
 Buenas tardes
 Ya lo he subido a GitHub.com
 Ahora voy a comprobar lo que se ha modificado desde hace un momento
+>>>>>>> 76964253755a7e58994db8f0772fa731c94f6260
